@@ -27,6 +27,7 @@ produce train_data.csv and test_data.csv
 ### Transform CSV to Arff (easy way to transform)
 1)Copy the follwing to CSV header
 
+ ```
 @relation ASS2009
 @attribute skill_ID numeric
 @attribute skill_mastery numeric
@@ -34,7 +35,7 @@ produce train_data.csv and test_data.csv
 @attribute problem_difficulty numeric
 @attribute correctness {1,0}
 @data
-
+```
 2) change both train and test files extension from .csv to .arff
 
 
