@@ -1,4 +1,4 @@
-# IKT
+# IKT, # EIKT
 
 https://arxiv.org/pdf/2112.11209.pdf. 
 In Proceedings of the 36th AAAI Conference on Artificial Intelligence: EAAI.
@@ -20,7 +20,8 @@ Forth line : the response sequence.
  ```
 
 ### Feature Engineering
-1) Run FeatureEngineering.py
+1) Run FeatureEngineering.py for IKT
+2) Run EITKFE.py for EIKT
 
 produce train_data.csv and test_data.csv
  
