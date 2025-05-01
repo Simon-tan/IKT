@@ -1,8 +1,8 @@
 # IKT, # EIKT
 
-1) IKT https://arxiv.org/pdf/2112.11209.pdf. Interpretable Knowledge Tracing: Simple and Efficient Student Modeling with Causal Relations, In Proceedings of the 36th AAAI Conference on Artificial Intelligence: EAAI.
+1) IKT Interpretable Knowledge Tracing: Simple and Efficient Student Modeling with Causal Relations, In Proceedings of the 36th AAAI Conference on Artificial Intelligence: EAAI. https://arxiv.org/pdf/2112.11209.pdf.
 
-2) EIKT Enhanced Interpretable Knowledge Tracing for Students’ Performance Prediction with Human-understandable Feature Space, In Proceedings of the 26th International Conference on Artificial Intelligence in Education. 
+2) EIKT Enhanced Interpretable Knowledge Tracing for Students’ Performance Prediction with Human-understandable Feature Space, In Proceedings of the 26th International Conference on Artificial Intelligence in Education. (will be updated soon)
 
 
 ### Data format
